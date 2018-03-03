@@ -1,0 +1,8 @@
+{
+    "muxbots_lib_version": "1.0",
+    "type": "chatbot",
+    "title": "Hello, World!",
+    "intro_message": "Hello, World!",
+    "image": "icon.png",
+    "source_url": "helloworld.js"
+}
