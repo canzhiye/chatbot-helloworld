@@ -1,4 +1,4 @@
-// Hello World chatbot
+// Hello World
 
 /* global muxbots */
 
