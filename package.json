@@ -1,0 +1,14 @@
+{
+  "name": "chatbot-helloworld",
+  "version": "1.0.0",
+  "main": "helloworld.js",
+  "repository": "https://github.com/muxbots/chatbot-helloworld",
+  "author": "contact@muxgram.com",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard"
+  },
+  "devDependencies": {
+    "standard": "^11.0.0"
+  }
+}
