@@ -1,5 +1,6 @@
 # chatbot-helloworld
 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![CircleCI](https://circleci.com/gh/muxbots/chatbot-helloworld.svg?style=shield)](https://circleci.com/gh/muxbots/chatbot-helloworld)
 
 ----
